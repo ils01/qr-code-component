@@ -4,8 +4,4 @@
 
 ### Links
 
-- Live Site URL: [here](https://ils01.github.io/frontendmentor-io/projects/newbie/QR%20code%20component/index.html)
-
-```
-
-```
+- Live Site URL: [here](https://ils01.github.io/qr-code-component/)
